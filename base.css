@@ -1,0 +1,31 @@
+/*Playfair Display(400-500-700)*/
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;700&display=swap');
+
+/*Noto Sans(400-700)*/
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap');
+
+/*Sen(400-700)*/
+@import url('https://fonts.googleapis.com/css2?family=Sen:wght@400;700&display=swap');
+
+/*Raleway(500-900)*/
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,700;0,800;0,900;1,500&display=swap');
+
+/*Playfair Display*/
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@900&family=Raleway:wght@500;800;900&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+ul {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+}
+:root {
+    --text-color: #000;
+    --green-color: #4ba87d;
+    --primary-color: #fff;
+}
